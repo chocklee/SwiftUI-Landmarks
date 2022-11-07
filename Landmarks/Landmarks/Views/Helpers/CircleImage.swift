@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// CircleImage
 struct CircleImage: View {
 
     var image: Image
