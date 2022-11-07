@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CategoryHome: View {
 
+    // EnvironmentObject
     @EnvironmentObject var modelData: ModelData
     @State private var showingProfile = false
 
